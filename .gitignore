@@ -1,0 +1,18 @@
+# Local company projects and private source documents
+clients/
+private/
+sources/
+work/
+outputs/
+
+# Credentials and local settings
+.env
+.env.*
+!.env.example
+
+# Temporary files
+~$*
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

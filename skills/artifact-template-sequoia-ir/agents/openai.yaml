@@ -1,0 +1,7 @@
+interface:
+  display_name: "SEQUOIA 기업별 IR"
+  short_description: "기업 원본 IR의 대표색·이미지를 적용하는 SEQUOIA PPT 제작"
+  icon_large: "./assets/preview.png"
+  default_prompt: "Use $artifact-template-sequoia-ir to create an IR PPT from the attached company materials, use the company's own representative IR colors and original images, follow the SEQUOIA section order, and verify the completed slides."
+policy:
+  allow_implicit_invocation: true
